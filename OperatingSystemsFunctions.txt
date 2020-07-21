@@ -1,0 +1,4 @@
+Microsoft Windows 10 provides virtual desktops. 
+It is called "Task View" and you can access them on the Taskbar. 
+To add a new desktop, you just click the plus sign.
+You can create multiple desktops and when you want to switch between them, you just click the Task view button and move your mouse over the one you want.

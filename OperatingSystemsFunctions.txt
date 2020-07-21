@@ -6,3 +6,6 @@ Chrome OS uses applications that can be run from the cloud in the Chrome browser
 It is 100% web based.
 There are no desktop applications.
 Chrome OS is quick to start up.
+The Android operating system allows you to use multiple applications at the same time.
+Android supports java applications.
+It also keeps information visible on your home screen.
